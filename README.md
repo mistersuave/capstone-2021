@@ -68,7 +68,7 @@ From within the `starter` directory first ensure you are working using your crea
 To run the server, execute:
 
 ```bash
-source config.sh
+source setup.sh
 flask run
 ```
 
